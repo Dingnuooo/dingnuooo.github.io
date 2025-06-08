@@ -1,22 +1,16 @@
 <?xml version="1.0"?>
-<rss version="2.0">
-    <channel>
-        <title>Dingnuooo 藏书阁</title>
-        <link>http://example.com</link>
-        <description>握紧你的锄头。</description>
-        <language>zh-CN</language>
-        <pubDate>Sun, 08 Jun 2025 17:46:03 +0800</pubDate>
-        <lastBuildDate>Sun, 08 Jun 2025 17:46:03 +0800</lastBuildDate>
-        <category>读书笔记</category>
-        <category>一些思考</category>
-        <item>
-            <guid isPermalink="true">http://example.com/2025/06/08/reading/%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%A3%E8%A8%80/</guid>
-            <title>《共产党宣言》全文</title>
-            <link>http://example.com/2025/06/08/reading/%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%A3%E8%A8%80/</link>
-            <category>读书笔记</category>
-            <category>一些思考</category>
-            <pubDate>Sun, 08 Jun 2025 17:46:03 +0800</pubDate>
-            <description><![CDATA[ &lt;blockquote&gt;
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>Dingnuooo 藏书阁 • Posts by &#34;reading&#34; category</title>
+    <link href="http://example.com" />
+    <updated>2025-06-08T09:46:03.778Z</updated>
+    <category term="读书笔记" />
+    <category term="一些思考" />
+    <entry>
+        <id>http://example.com/2025/06/08/reading/%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%A3%E8%A8%80/</id>
+        <title>《共产党宣言》全文</title>
+        <link rel="alternate" href="http://example.com/2025/06/08/reading/%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%A3%E8%A8%80/"/>
+        <content type="html">&lt;blockquote&gt;
 &lt;p&gt;转载自&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWFyeGlzdHMub3JnL2NoaW5lc2UvbWFyeC8wMS5odG0jOA==&#34;&gt;中文马克思主义文库&lt;/span&gt;，抄录了除序言外的全部内容。重新排版为 markdown 格式方便阅读。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
@@ -408,15 +402,16 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2025/06/08/reading/%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E4%B8%8E%E5%AD%A6%E6%9C%AF%E8%A7%84%E8%8C%83/</guid>
-            <title>《学位论文写作与学术规范》笔记</title>
-            <link>http://example.com/2025/06/08/reading/%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E4%B8%8E%E5%AD%A6%E6%9C%AF%E8%A7%84%E8%8C%83/</link>
-            <category>读书笔记</category>
-            <pubDate>Sun, 08 Jun 2025 17:46:03 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;preface&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#preface&#34;&gt;#&lt;/a&gt; Preface&lt;/h1&gt;
+</content>
+        <category term="读书笔记" />
+        <category term="一些思考" />
+        <updated>2025-06-08T09:46:03.778Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2025/06/08/reading/%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E4%B8%8E%E5%AD%A6%E6%9C%AF%E8%A7%84%E8%8C%83/</id>
+        <title>《学位论文写作与学术规范》笔记</title>
+        <link rel="alternate" href="http://example.com/2025/06/08/reading/%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E4%B8%8E%E5%AD%A6%E6%9C%AF%E8%A7%84%E8%8C%83/"/>
+        <content type="html">&lt;h1 id=&#34;preface&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#preface&#34;&gt;#&lt;/a&gt; Preface&lt;/h1&gt;
 &lt;p&gt;前三章属于准备阶段 ，包括了解学位论文及其相关准备工作。4-8 章大致对应研究和学位论文写作的基本步骤（确定选题，选择方法，收集数据，分析数据，撰写论文）。学术规范贯穿于整个流程，第 9 章重点讲写作规范，附录 1 和 2 提供论文范文和答辩的注意事项&lt;/p&gt;
 &lt;h1 id=&#34;chapter-1-开宗明义写作入门&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#chapter-1-开宗明义写作入门&#34;&gt;#&lt;/a&gt; Chapter 1 开宗明义・写作入门&lt;/h1&gt;
 &lt;h2 id=&#34;11-什么是学位论文&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-什么是学位论文&#34;&gt;#&lt;/a&gt; 1.1 什么是学位论文&lt;/h2&gt;
@@ -867,15 +862,15 @@
 &lt;h3 id=&#34;a222-如何做口头陈述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#a222-如何做口头陈述&#34;&gt;#&lt;/a&gt; A2.2.2 如何做口头陈述&lt;/h3&gt;
 &lt;h3 id=&#34;a223-如何回应答辩老师的问题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#a223-如何回应答辩老师的问题&#34;&gt;#&lt;/a&gt; A2.2.3 如何回应答辩老师的问题&lt;/h3&gt;
 &lt;h3 id=&#34;a224-如何缓解焦虑情绪&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#a224-如何缓解焦虑情绪&#34;&gt;#&lt;/a&gt; A2.2.4 如何缓解焦虑情绪&lt;/h3&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2025/06/08/reading/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6/</guid>
-            <title>《如何阅读一本书》笔记</title>
-            <link>http://example.com/2025/06/08/reading/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6/</link>
-            <category>读书笔记</category>
-            <pubDate>Sun, 08 Jun 2025 17:46:03 +0800</pubDate>
-            <description><![CDATA[ &lt;blockquote&gt;
+</content>
+        <category term="读书笔记" />
+        <updated>2025-06-08T09:46:03.775Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2025/06/08/reading/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6/</id>
+        <title>《如何阅读一本书》笔记</title>
+        <link rel="alternate" href="http://example.com/2025/06/08/reading/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6/"/>
+        <content type="html">&lt;blockquote&gt;
 &lt;p&gt;Name: How to Read a Book（如何阅读一本书）&lt;br&gt;
 Author: Mortimer J. Adler, Charles Van Doren&lt;br&gt;
 Translator: 郝明义，朱衣&lt;br&gt;
@@ -1499,28 +1494,8 @@ Translator: 郝明义，朱衣&lt;br&gt;
 &lt;li&gt;附录二 四种层次阅读的练习与测验&lt;/li&gt;
 &lt;li&gt;索引&lt;/li&gt;
 &lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2025/06/07/hello-world/</guid>
-            <title>Hello World</title>
-            <link>http://example.com/2025/06/07/hello-world/</link>
-            <pubDate>Sat, 07 Jun 2025 18:29:23 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-    </channel>
-</rss>
+</content>
+        <category term="读书笔记" />
+        <updated>2025-06-08T09:46:03.771Z</updated>
+    </entry>
+</feed>
