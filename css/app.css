@@ -2233,6 +2233,12 @@ main >.inner {
 .social .item.github i {
   color: #191717;
 }
+.social .item.bilibili::before {
+  background-color: #479fd1;
+}
+.social .item.bilibili i {
+  color: #479fd1;
+}
 .social .item.music::before {
   background-color: #e60026;
 }
