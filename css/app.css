@@ -2341,6 +2341,9 @@ main >.inner {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+.contents .toc-item .toc-link .toc-number {
+  display: none;
+}
 .contents .toc-child {
   display: none;
 }
