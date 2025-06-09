@@ -764,7 +764,7 @@ body.loaded::-webkit-scrollbar {
   height: 0.5rem;
 }
 body.loaded::-webkit-scrollbar-thumb {
-  background-color: var(--color-pink-light);
+  background-color: var(--color-aqua);
 }
 .rotate,
 .page .body h1 .anchor::before {
