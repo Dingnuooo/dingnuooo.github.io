@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://dingnuooo.github.io</id>
     <title>握紧你的锄头. • Posts by &#34;reading&#34; category</title>
-    <link href="http://example.com" />
-    <updated>2025-06-08T09:46:03.778Z</updated>
-    <category term="LectureNote" />
+    <link href="http://dingnuooo.github.io" />
+    <updated>2024-11-25T16:00:00.000Z</updated>
     <category term="歌词" />
+    <category term="LectureNote" />
     <category term="技能" />
-    <category term="读书笔记" />
     <category term="Homework" />
+    <category term="读书笔记" />
     <entry>
-        <id>http://example.com/2025/06/08/reading/%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%A3%E8%A8%80/</id>
+        <id>http://dingnuooo.github.io/2024/11/26/reading/%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%A3%E8%A8%80/</id>
         <title>《共产党宣言》全文</title>
-        <link rel="alternate" href="http://example.com/2025/06/08/reading/%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%A3%E8%A8%80/"/>
+        <link rel="alternate" href="http://dingnuooo.github.io/2024/11/26/reading/%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%A3%E8%A8%80/"/>
         <content type="html">&lt;blockquote&gt;
-&lt;p&gt;转载自&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWFyeGlzdHMub3JnL2NoaW5lc2UvbWFyeC8wMS5odG0jOA==&#34;&gt;中文马克思主义文库&lt;/span&gt;，抄录了除序言外的全部内容。重新排版为 markdown 格式方便阅读。&lt;/p&gt;
+&lt;p&gt;转载自&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWFyeGlzdHMub3JnL2NoaW5lc2UvbWFyeC8wMS5odG0jOA==&#34;&gt;中文马克思主义文库&lt;/span&gt;，抄录了除序言外的全部内容。重新排版方便阅读。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr /&gt;
 &lt;p&gt;一个幽灵，共产主义的幽灵，在欧洲游荡。为了对这个幽灵进行神圣的围剿，旧欧洲的一切势力，教皇和沙皇、梅特涅和基佐、法国的激进派和德国的警察，都联合起来了。&lt;/p&gt;
@@ -407,12 +407,12 @@
 &lt;/section&gt;
 </content>
         <category term="读书笔记" />
-        <updated>2025-06-08T09:46:03.778Z</updated>
+        <updated>2024-11-25T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2024/05/09/reading/%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E4%B8%8E%E5%AD%A6%E6%9C%AF%E8%A7%84%E8%8C%83/</id>
+        <id>http://dingnuooo.github.io/2024/05/09/reading/%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E4%B8%8E%E5%AD%A6%E6%9C%AF%E8%A7%84%E8%8C%83/</id>
         <title>《学位论文写作与学术规范》笔记</title>
-        <link rel="alternate" href="http://example.com/2024/05/09/reading/%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E4%B8%8E%E5%AD%A6%E6%9C%AF%E8%A7%84%E8%8C%83/"/>
+        <link rel="alternate" href="http://dingnuooo.github.io/2024/05/09/reading/%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E4%B8%8E%E5%AD%A6%E6%9C%AF%E8%A7%84%E8%8C%83/"/>
         <content type="html">&lt;h1 id=&#34;preface&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#preface&#34;&gt;#&lt;/a&gt; Preface&lt;/h1&gt;
 &lt;p&gt;前三章属于准备阶段 ，包括了解学位论文及其相关准备工作。4-8 章大致对应研究和学位论文写作的基本步骤（确定选题，选择方法，收集数据，分析数据，撰写论文）。学术规范贯穿于整个流程，第 9 章重点讲写作规范，附录 1 和 2 提供论文范文和答辩的注意事项&lt;/p&gt;
 &lt;h1 id=&#34;chapter-1-开宗明义写作入门&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#chapter-1-开宗明义写作入门&#34;&gt;#&lt;/a&gt; Chapter 1 开宗明义・写作入门&lt;/h1&gt;
@@ -869,11 +869,11 @@
         <updated>2024-05-08T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2024/05/09/reading/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6/</id>
+        <id>http://dingnuooo.github.io/2024/05/09/reading/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6/</id>
         <title>《如何阅读一本书》笔记</title>
-        <link rel="alternate" href="http://example.com/2024/05/09/reading/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6/"/>
+        <link rel="alternate" href="http://dingnuooo.github.io/2024/05/09/reading/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6/"/>
         <content type="html">&lt;blockquote&gt;
-&lt;p&gt;Name: How to Read a Book（如何阅读一本书）&lt;br /&gt;
+&lt;p&gt;Titie: How to Read a Book（如何阅读一本书）&lt;br /&gt;
 Author: Mortimer J. Adler, Charles Van Doren&lt;br /&gt;
 Translator: 郝明义，朱衣&lt;br /&gt;
  Press: 商务印书馆&lt;/p&gt;

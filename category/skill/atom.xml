@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://dingnuooo.github.io</id>
     <title>握紧你的锄头. • Posts by &#34;skill&#34; category</title>
-    <link href="http://example.com" />
+    <link href="http://dingnuooo.github.io" />
     <updated>2024-12-04T16:00:00.000Z</updated>
-    <category term="LectureNote" />
     <category term="歌词" />
+    <category term="LectureNote" />
     <category term="技能" />
-    <category term="读书笔记" />
     <category term="Homework" />
+    <category term="读书笔记" />
     <entry>
-        <id>http://example.com/2024/12/05/default/%E5%B7%A5%E7%A7%91%E7%94%9F%E6%8A%80%E8%83%BD%E6%A0%91/</id>
+        <id>http://dingnuooo.github.io/2024/12/05/default/%E5%B7%A5%E7%A7%91%E7%94%9F%E6%8A%80%E8%83%BD%E6%A0%91/</id>
         <title>【摘录】大学生的三大法宝</title>
-        <link rel="alternate" href="http://example.com/2024/12/05/default/%E5%B7%A5%E7%A7%91%E7%94%9F%E6%8A%80%E8%83%BD%E6%A0%91/"/>
+        <link rel="alternate" href="http://dingnuooo.github.io/2024/12/05/default/%E5%B7%A5%E7%A7%91%E7%94%9F%E6%8A%80%E8%83%BD%E6%A0%91/"/>
         <content type="html">&lt;p&gt;来自 up 主 余 - 凌宇 的视频 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMW5TQ1JZZ0VLdg==&#34;&gt;大学生的三大法宝（核心素养与竞争力）&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;实操能力
@@ -86,9 +86,9 @@
         <updated>2024-12-04T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2024/03/14/default/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E5%BA%A6/</id>
+        <id>http://dingnuooo.github.io/2024/03/14/default/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E5%BA%A6/</id>
         <title>物理实验之不确定度</title>
-        <link rel="alternate" href="http://example.com/2024/03/14/default/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E5%BA%A6/"/>
+        <link rel="alternate" href="http://dingnuooo.github.io/2024/03/14/default/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E5%BA%A6/"/>
         <content type="html">&lt;h3 id=&#34;随机变量与误差&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#随机变量与误差&#34;&gt;#&lt;/a&gt; 随机变量与误差&lt;/h3&gt;
 &lt;p&gt;绝对误差 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;Δ&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\Delta x=x-x_0&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.68333em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;Δ&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.66666em;vertical-align:-0.08333em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.58056em;vertical-align:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.30110799999999993em;&#34;&gt;&lt;span style=&#34;top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;，&lt;strong&gt;你以为的（测量值）&lt;strong&gt;减去&lt;/strong&gt;真实值&lt;/strong&gt;&lt;br /&gt;
 等精度测量和不等精度测量，这里讨论的都是等精度&lt;br /&gt;

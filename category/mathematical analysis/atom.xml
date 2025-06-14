@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://dingnuooo.github.io</id>
     <title>握紧你的锄头. • Posts by &#34;mathematical analysis&#34; category</title>
-    <link href="http://example.com" />
+    <link href="http://dingnuooo.github.io" />
     <updated>2024-06-22T16:00:00.000Z</updated>
-    <category term="LectureNote" />
     <category term="歌词" />
+    <category term="LectureNote" />
     <category term="技能" />
-    <category term="读书笔记" />
     <category term="Homework" />
+    <category term="读书笔记" />
     <entry>
-        <id>http://example.com/2024/06/23/mathematical_analysis/%E8%AE%B0%E5%BF%86%E4%BD%9B%E8%84%9A%E4%B8%8B/</id>
+        <id>http://dingnuooo.github.io/2024/06/23/mathematical_analysis/%E8%AE%B0%E5%BF%86%E4%BD%9B%E8%84%9A%E4%B8%8B/</id>
         <title>数学分析 记忆佛脚（下）</title>
-        <link rel="alternate" href="http://example.com/2024/06/23/mathematical_analysis/%E8%AE%B0%E5%BF%86%E4%BD%9B%E8%84%9A%E4%B8%8B/"/>
+        <link rel="alternate" href="http://dingnuooo.github.io/2024/06/23/mathematical_analysis/%E8%AE%B0%E5%BF%86%E4%BD%9B%E8%84%9A%E4%B8%8B/"/>
         <content type="html">&lt;p&gt;（上册）&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;主线第一篇：极限论
@@ -1021,9 +1021,9 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
         <updated>2024-06-22T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/12/30/mathematical_analysis/%E8%AE%B0%E5%BF%86%E4%BD%9B%E8%84%9A%E4%B8%8A/</id>
+        <id>http://dingnuooo.github.io/2023/12/30/mathematical_analysis/%E8%AE%B0%E5%BF%86%E4%BD%9B%E8%84%9A%E4%B8%8A/</id>
         <title>数学分析 记忆佛脚（上）</title>
-        <link rel="alternate" href="http://example.com/2023/12/30/mathematical_analysis/%E8%AE%B0%E5%BF%86%E4%BD%9B%E8%84%9A%E4%B8%8A/"/>
+        <link rel="alternate" href="http://dingnuooo.github.io/2023/12/30/mathematical_analysis/%E8%AE%B0%E5%BF%86%E4%BD%9B%E8%84%9A%E4%B8%8A/"/>
         <content type="html">&lt;div class=&#34;note warning&#34;&gt;
 &lt;p&gt;完全没开工&lt;/p&gt;
 &lt;/div&gt;

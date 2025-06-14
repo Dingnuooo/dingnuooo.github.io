@@ -2,22 +2,22 @@
 <rss version="2.0">
     <channel>
         <title>握紧你的锄头. • Posts by &#34;control science&#34; category</title>
-        <link>http://example.com</link>
+        <link>http://dingnuooo.github.io</link>
         <description>握紧你的锄头，前进，前进。</description>
         <language>zh-CN</language>
-        <pubDate>Tue, 20 May 2025 00:00:00 +0800</pubDate>
-        <lastBuildDate>Tue, 20 May 2025 00:00:00 +0800</lastBuildDate>
-        <category>LectureNote</category>
+        <pubDate>Tue, 10 Jun 2025 00:00:00 +0800</pubDate>
+        <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0800</lastBuildDate>
         <category>歌词</category>
+        <category>LectureNote</category>
         <category>技能</category>
-        <category>读书笔记</category>
         <category>Homework</category>
+        <category>读书笔记</category>
         <item>
-            <guid isPermalink="true">http://example.com/2025/05/20/control/%E5%AD%90%E7%A9%BA%E9%97%B4%E8%BE%A8%E8%AF%86/</guid>
+            <guid isPermalink="true">http://dingnuooo.github.io/2025/06/10/control/%E5%AD%90%E7%A9%BA%E9%97%B4%E8%BE%A8%E8%AF%86/</guid>
             <title>子空间辨识</title>
-            <link>http://example.com/2025/05/20/control/%E5%AD%90%E7%A9%BA%E9%97%B4%E8%BE%A8%E8%AF%86/</link>
+            <link>http://dingnuooo.github.io/2025/06/10/control/%E5%AD%90%E7%A9%BA%E9%97%B4%E8%BE%A8%E8%AF%86/</link>
             <category>LectureNote</category>
-            <pubDate>Tue, 20 May 2025 00:00:00 +0800</pubDate>
+            <pubDate>Tue, 10 Jun 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;本章解决这样一个问题：对于一个 LTI 离散状态空间方程模型&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;katex-display&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mo fence=&#34;true&#34;&gt;{&lt;/mo&gt;&lt;mtable rowspacing=&#34;0.24999999999999992em&#34; columnalign=&#34;right left&#34; columnspacing=&#34;0em&#34;&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&#34;0&#34; displaystyle=&#34;true&#34;&gt;&lt;msub&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;k&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&#34;0&#34; displaystyle=&#34;true&#34;&gt;&lt;mrow&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;msub&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mi&gt;k&lt;/mi&gt;&lt;/msub&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;msub&gt;&lt;mi&gt;u&lt;/mi&gt;&lt;mi&gt;k&lt;/mi&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&#34;0&#34; displaystyle=&#34;true&#34;&gt;&lt;msub&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mi&gt;k&lt;/mi&gt;&lt;/msub&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&#34;0&#34; displaystyle=&#34;true&#34;&gt;&lt;mrow&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;C&lt;/mi&gt;&lt;msub&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mi&gt;k&lt;/mi&gt;&lt;/msub&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;D&lt;/mi&gt;&lt;msub&gt;&lt;mi&gt;u&lt;/mi&gt;&lt;mi&gt;k&lt;/mi&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\left\{
 \begin{aligned}
@@ -333,11 +333,11 @@ Y_p&amp;amp;= L_{21}Q_1^{\mathrm T}+L_{22}Q_2^{\mathrm T}\\
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/05/20/control/%E7%A9%BA%E9%97%B4%E6%8A%95%E5%BD%B1/</guid>
+            <guid isPermalink="true">http://dingnuooo.github.io/2025/06/10/control/%E7%A9%BA%E9%97%B4%E6%8A%95%E5%BD%B1/</guid>
             <title>空间投影</title>
-            <link>http://example.com/2025/05/20/control/%E7%A9%BA%E9%97%B4%E6%8A%95%E5%BD%B1/</link>
+            <link>http://dingnuooo.github.io/2025/06/10/control/%E7%A9%BA%E9%97%B4%E6%8A%95%E5%BD%B1/</link>
             <category>LectureNote</category>
-            <pubDate>Tue, 20 May 2025 00:00:00 +0800</pubDate>
+            <pubDate>Tue, 10 Jun 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h3 id=&#34;qr分解lq分解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#qr分解lq分解&#34;&gt;#&lt;/a&gt; QR 分解 / LQ 分解&lt;/h3&gt;
 &lt;p&gt;即将矩阵分解为 “正交矩阵&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;Q&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;Q&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8777699999999999em;vertical-align:-0.19444em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;Q&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mo&gt;×&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\times&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.66666em;vertical-align:-0.08333em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;×&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 上三角矩阵&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;R&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.68333em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;” 的形式。其中 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;Q&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;Q&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8777699999999999em;vertical-align:-0.19444em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;Q&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 为&lt;strong&gt;单位正交向量组&lt;/strong&gt;拼起来的矩阵，&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;R&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.68333em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 为&lt;strong&gt;对角线下方（不含）全零&lt;/strong&gt;的矩阵。&lt;/p&gt;
 &lt;h4 id=&#34;为什么要qr分解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为什么要qr分解&#34;&gt;#&lt;/a&gt; 为什么要 QR 分解&lt;/h4&gt;
