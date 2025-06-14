@@ -3,16 +3,16 @@
     <id>http://example.com</id>
     <title>握紧你的锄头. • Posts by &#34;技能&#34; tag</title>
     <link href="http://example.com" />
-    <updated>2025-06-11T15:18:45.229Z</updated>
-    <category term="歌词" />
+    <updated>2024-12-04T16:00:00.000Z</updated>
     <category term="LectureNote" />
+    <category term="歌词" />
     <category term="技能" />
     <category term="读书笔记" />
     <category term="Homework" />
     <entry>
-        <id>http://example.com/2025/06/11/default/%E5%B7%A5%E7%A7%91%E7%94%9F%E6%8A%80%E8%83%BD%E6%A0%91/</id>
+        <id>http://example.com/2024/12/05/default/%E5%B7%A5%E7%A7%91%E7%94%9F%E6%8A%80%E8%83%BD%E6%A0%91/</id>
         <title>【摘录】大学生的三大法宝</title>
-        <link rel="alternate" href="http://example.com/2025/06/11/default/%E5%B7%A5%E7%A7%91%E7%94%9F%E6%8A%80%E8%83%BD%E6%A0%91/"/>
+        <link rel="alternate" href="http://example.com/2024/12/05/default/%E5%B7%A5%E7%A7%91%E7%94%9F%E6%8A%80%E8%83%BD%E6%A0%91/"/>
         <content type="html">&lt;p&gt;来自 up 主 余 - 凌宇 的视频 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMW5TQ1JZZ0VLdg==&#34;&gt;大学生的三大法宝（核心素养与竞争力）&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;实操能力
@@ -83,6 +83,6 @@
 &lt;/ul&gt;
 </content>
         <category term="技能" />
-        <updated>2025-06-11T15:18:45.229Z</updated>
+        <updated>2024-12-04T16:00:00.000Z</updated>
     </entry>
 </feed>

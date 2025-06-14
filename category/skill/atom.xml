@@ -3,16 +3,92 @@
     <id>http://example.com</id>
     <title>握紧你的锄头. • Posts by &#34;skill&#34; category</title>
     <link href="http://example.com" />
-    <updated>2025-06-13T03:33:42.552Z</updated>
-    <category term="歌词" />
+    <updated>2024-12-04T16:00:00.000Z</updated>
     <category term="LectureNote" />
+    <category term="歌词" />
     <category term="技能" />
     <category term="读书笔记" />
     <category term="Homework" />
     <entry>
-        <id>http://example.com/2025/06/13/default/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E5%BA%A6/</id>
+        <id>http://example.com/2024/12/05/default/%E5%B7%A5%E7%A7%91%E7%94%9F%E6%8A%80%E8%83%BD%E6%A0%91/</id>
+        <title>【摘录】大学生的三大法宝</title>
+        <link rel="alternate" href="http://example.com/2024/12/05/default/%E5%B7%A5%E7%A7%91%E7%94%9F%E6%8A%80%E8%83%BD%E6%A0%91/"/>
+        <content type="html">&lt;p&gt;来自 up 主 余 - 凌宇 的视频 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMW5TQ1JZZ0VLdg==&#34;&gt;大学生的三大法宝（核心素养与竞争力）&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;实操能力
+&lt;ul&gt;
+&lt;li&gt;软件能力
+&lt;ul&gt;
+&lt;li&gt;开发平台的配置&lt;/li&gt;
+&lt;li&gt;debug，本质是问题的拆分与解决。print 一个中间变量，如果不符合预期就说明前面就有问题&lt;/li&gt;
+&lt;li&gt;项目迁移能力，把旧项目缝到新项目中的能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;硬件能力
+&lt;ul&gt;
+&lt;li&gt;电路设计，对应软件中的配置&lt;/li&gt;
+&lt;li&gt;电路测试，对应软件中的 debug&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;办公能力
+&lt;ul&gt;
+&lt;li&gt;排版：word、latex&lt;/li&gt;
+&lt;li&gt;绘图：ppt、matlab&lt;/li&gt;
+&lt;li&gt;演示：ppt 制作、视频制作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;理论水平
+&lt;ul&gt;
+&lt;li&gt;非数学能力：常识与生态的理解与记忆
+&lt;ul&gt;
+&lt;li&gt;化学、生物、地理、人文&lt;/li&gt;
+&lt;li&gt;计算机处理&lt;/li&gt;
+&lt;li&gt;计算机通信网&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;数学能力：条件到结果的逻辑分析
+&lt;ul&gt;
+&lt;li&gt;连续的数学：研究分布在几何对象上的函数，以及他们之间的微分、差分方程。这里包含了所有需要 “函数” 这个工具的学科，例如微积分、复变、泛函、代数、数值计算、理论力学、统计、概率论、信号处理。这里 “处理离散的点”（例如质点力学）也算连续的数学。&lt;/li&gt;
+&lt;li&gt;离散的数学：研究离散的结构（群环域模），例如二进制、同余、图论、群论、编码、自动机、计算理论等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;节奏习惯：信息差、对学习的专注与热爱、持续且健康的生活习惯。
+&lt;ul&gt;
+&lt;li&gt;科研节奏
+&lt;ul&gt;
+&lt;li&gt;不要尝试在多个方面都出成果。要持续性地做同一件事，不论硬件科研还是软件科研&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;生活节奏
+&lt;ul&gt;
+&lt;li&gt;让自己随时知道当下可以做什么有意义的事，而不是给自己设很多高目标，反而不知道当下从哪里做起&lt;/li&gt;
+&lt;li&gt;不好的情绪其实就是想太多，给自己上太大的压力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;学习节奏
+&lt;ul&gt;
+&lt;li&gt;心流不能代替良好的学习作息习惯。长时间以心流状态学习，如果这件事不容易让你进入心流，就会下意识地放松刷手机&lt;/li&gt;
+&lt;li&gt;不要只在自己擅长的事情上觉得自己做的好，否则只会对一些特定的事有做下去的动力&lt;/li&gt;
+&lt;li&gt;大学有很多杂事分散你的注意力&lt;/li&gt;
+&lt;li&gt;不要为了完美解决一件事废寝忘食&lt;/li&gt;
+&lt;li&gt;不为考试所限，要让兴趣知识在脑子中自由地野蛮地生长&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="技能" />
+        <updated>2024-12-04T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2024/03/14/default/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E5%BA%A6/</id>
         <title>物理实验之不确定度</title>
-        <link rel="alternate" href="http://example.com/2025/06/13/default/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E5%BA%A6/"/>
+        <link rel="alternate" href="http://example.com/2024/03/14/default/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E5%BA%A6/"/>
         <content type="html">&lt;h3 id=&#34;随机变量与误差&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#随机变量与误差&#34;&gt;#&lt;/a&gt; 随机变量与误差&lt;/h3&gt;
 &lt;p&gt;绝对误差 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;Δ&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\Delta x=x-x_0&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.68333em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;Δ&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.66666em;vertical-align:-0.08333em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.58056em;vertical-align:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.30110799999999993em;&#34;&gt;&lt;span style=&#34;top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;，&lt;strong&gt;你以为的（测量值）&lt;strong&gt;减去&lt;/strong&gt;真实值&lt;/strong&gt;&lt;br /&gt;
 等精度测量和不等精度测量，这里讨论的都是等精度&lt;br /&gt;
@@ -207,82 +283,6 @@ M1001 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/
  相关指数越大，残差平方和越小，拟合效果越好；相关指数越小，残差平方和越大，拟合效果越差&lt;/p&gt;
 </content>
         <category term="LectureNote" />
-        <updated>2025-06-13T03:33:42.552Z</updated>
-    </entry>
-    <entry>
-        <id>http://example.com/2025/06/11/default/%E5%B7%A5%E7%A7%91%E7%94%9F%E6%8A%80%E8%83%BD%E6%A0%91/</id>
-        <title>【摘录】大学生的三大法宝</title>
-        <link rel="alternate" href="http://example.com/2025/06/11/default/%E5%B7%A5%E7%A7%91%E7%94%9F%E6%8A%80%E8%83%BD%E6%A0%91/"/>
-        <content type="html">&lt;p&gt;来自 up 主 余 - 凌宇 的视频 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMW5TQ1JZZ0VLdg==&#34;&gt;大学生的三大法宝（核心素养与竞争力）&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;实操能力
-&lt;ul&gt;
-&lt;li&gt;软件能力
-&lt;ul&gt;
-&lt;li&gt;开发平台的配置&lt;/li&gt;
-&lt;li&gt;debug，本质是问题的拆分与解决。print 一个中间变量，如果不符合预期就说明前面就有问题&lt;/li&gt;
-&lt;li&gt;项目迁移能力，把旧项目缝到新项目中的能力&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;硬件能力
-&lt;ul&gt;
-&lt;li&gt;电路设计，对应软件中的配置&lt;/li&gt;
-&lt;li&gt;电路测试，对应软件中的 debug&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;办公能力
-&lt;ul&gt;
-&lt;li&gt;排版：word、latex&lt;/li&gt;
-&lt;li&gt;绘图：ppt、matlab&lt;/li&gt;
-&lt;li&gt;演示：ppt 制作、视频制作&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;理论水平
-&lt;ul&gt;
-&lt;li&gt;非数学能力：常识与生态的理解与记忆
-&lt;ul&gt;
-&lt;li&gt;化学、生物、地理、人文&lt;/li&gt;
-&lt;li&gt;计算机处理&lt;/li&gt;
-&lt;li&gt;计算机通信网&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;数学能力：条件到结果的逻辑分析
-&lt;ul&gt;
-&lt;li&gt;连续的数学：研究分布在几何对象上的函数，以及他们之间的微分、差分方程。这里包含了所有需要 “函数” 这个工具的学科，例如微积分、复变、泛函、代数、数值计算、理论力学、统计、概率论、信号处理。这里 “处理离散的点”（例如质点力学）也算连续的数学。&lt;/li&gt;
-&lt;li&gt;离散的数学：研究离散的结构（群环域模），例如二进制、同余、图论、群论、编码、自动机、计算理论等&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;节奏习惯：信息差、对学习的专注与热爱、持续且健康的生活习惯。
-&lt;ul&gt;
-&lt;li&gt;科研节奏
-&lt;ul&gt;
-&lt;li&gt;不要尝试在多个方面都出成果。要持续性地做同一件事，不论硬件科研还是软件科研&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;生活节奏
-&lt;ul&gt;
-&lt;li&gt;让自己随时知道当下可以做什么有意义的事，而不是给自己设很多高目标，反而不知道当下从哪里做起&lt;/li&gt;
-&lt;li&gt;不好的情绪其实就是想太多，给自己上太大的压力&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;学习节奏
-&lt;ul&gt;
-&lt;li&gt;心流不能代替良好的学习作息习惯。长时间以心流状态学习，如果这件事不容易让你进入心流，就会下意识地放松刷手机&lt;/li&gt;
-&lt;li&gt;不要只在自己擅长的事情上觉得自己做的好，否则只会对一些特定的事有做下去的动力&lt;/li&gt;
-&lt;li&gt;大学有很多杂事分散你的注意力&lt;/li&gt;
-&lt;li&gt;不要为了完美解决一件事废寝忘食&lt;/li&gt;
-&lt;li&gt;不为考试所限，要让兴趣知识在脑子中自由地野蛮地生长&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-        <category term="技能" />
-        <updated>2025-06-11T15:18:45.229Z</updated>
+        <updated>2024-03-13T16:00:00.000Z</updated>
     </entry>
 </feed>
